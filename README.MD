@@ -10,3 +10,5 @@ Options:
                                                          [boolean] [default: 10]
   -h, --hasta    Hasta que numero queremos multiplicar?      [number] [required]
 ```
+
+Ej: node app -b 5 -l -h 20
